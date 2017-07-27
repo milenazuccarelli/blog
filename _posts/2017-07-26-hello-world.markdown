@@ -3,10 +3,10 @@ layout: post
 title:  "The A-Zs of Fall Winter 2017"
 date:   2017-07-26 13:24:00 +0100
 categories: jekyll update
-thumbnail: "/resources/img/2017-07-26-1.jpg"
+thumbnail: "{{ page.path | prepend:site.baseurl }}/resources/img/2017-07-26/2017-07-26-1.jpg"
 customjs:
  - https://code.jquery.com/jquery-3.2.1.min.js
- - /resources/js.js
+ - {{ page.path | prepend:site.baseurl }}/resources/serve.js
 ---
 
 Around the middle of summer every year is when I become increasingly desperate for autumn to arrive. So I decided to make a list of my favourite shows from the fw17.  

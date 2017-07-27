@@ -1,4 +1,6 @@
-// http://madewithenvy.com/ecosystem/articles/2015/exploring-order-flexbox-carousel/
+// FLEX BOX CAROUSEL
+// taken from http://madewithenvy.com/ecosystem/articles/2015/exploring-order-flexbox-carousel/
+
 var $carousel = $('.carousel');
 var $seats = $('.carousel-seat');
 
