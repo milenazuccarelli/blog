@@ -3,10 +3,10 @@ layout: post
 title:  "The A-Zs of Fall Winter 2017"
 date:   2017-07-26 13:24:00 +0100
 categories: jekyll update
-thumbnail: "{{ page.path | prepend:site.baseurl }}/resources/img/2017-07-26/2017-07-26-1.jpg"
+thumbnail: "/blog/resources/img/2017-07-26/2017-07-26-1.jpg"
 customjs:
  - https://code.jquery.com/jquery-3.2.1.min.js
- - {{ page.path | prepend:site.baseurl }}/resources/serve.js
+ - /blog/resources/script.js
 ---
 
 Around the middle of summer every year is when I become increasingly desperate for autumn to arrive. So I decided to make a list of my favourite shows from the fw17.  
@@ -20,22 +20,22 @@ A.P.C’s founder Jean Touitou introduced this collection expressing his slight 
     <div class="gallery-wrap">
       <ul class="carousel is-set">
         <li class="carousel-seat">
-            <div class="cell"><img src="/resources/img/2017-07-26/apc_1.jpg" alt="" /></div>
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/apc_1.jpg" alt="" /></div>
         </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/apc_2.jpg" alt="" /></div>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/apc_2.jpg" alt="" /></div>
         </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/apc_3.jpg" alt="" /></div>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/apc_3.jpg" alt="" /></div>
         </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/apc_4.jpg" alt="" /></div>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/apc_4.jpg" alt="" /></div>
         </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/apc_5.jpg" alt="" /></div>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/apc_5.jpg" alt="" /></div>
         </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/apc_6.jpg" alt="" /></div>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/apc_6.jpg" alt="" /></div>
         </li>
       </ul>
     </div>
@@ -52,40 +52,40 @@ Raf Simons’ debut for Calvin Klein was an interpretation of sleek american aes
     <div class="gallery-wrap">
       <ul class="carousel is-set">
         <li class="carousel-seat">
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_1.jpg" alt="" /></div>
-        </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_2.jpg" alt="" /></div>
-        </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_3.jpg" alt="" /></div>
-        </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_4.jpg" alt="" /></div>
-        </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_5.jpg" alt="" /></div>
-        </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_6.jpg" alt="" /></div>
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_1.jpg" alt="" /></div>
         </li>
         <li class="carousel-seat">
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_7.jpg" alt="" /></div>
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_2.jpg" alt="" /></div>
         </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_8.jpg" alt="" /></div>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_3.jpg" alt="" /></div>
         </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_9.jpg" alt="" /></div>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_4.jpg" alt="" /></div>
         </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_10.jpg" alt="" /></div>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_5.jpg" alt="" /></div>
         </li>
-        <li class='carousel-seat'>
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_11.jpg" alt="" /></div>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_6.jpg" alt="" /></div>
         </li>
-        <li class='carousel-seat is-ref'>
-            <div class="cell"><img src="/resources/img/2017-07-26/ck_12.jpg" alt="" /></div>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_7.jpg" alt="" /></div>
+        </li>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_8.jpg" alt="" /></div>
+        </li>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_9.jpg" alt="" /></div>
+        </li>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_10.jpg" alt="" /></div>
+        </li>
+        <li class="carousel-seat">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_11.jpg" alt="" /></div>
+        </li>
+        <li class="carousel-seat is-ref">
+            <div class="cell"><img src="/blog/resources/img/2017-07-26/ck_12.jpg" alt="" /></div>
         </li>
       </ul>
     </div>
