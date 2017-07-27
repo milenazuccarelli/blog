@@ -1,0 +1,162 @@
+---
+---
+$base-font-family: "Acne Studios Circle Test", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$spacing-unit: 60px;
+$brand-color: #111;
+
+@import "{{ site.theme }}";
+.site-header {
+  border-top: none;
+  border-bottom: 2px solid $grey-color-dark;
+  padding: $spacing-unit 0;
+  min-height: $spacing-unit;
+}
+.site-title {
+    letter-spacing: 0;
+}
+.post-meta {
+    font-size: 24px;
+    color: $grey-color-dark;
+}
+a.post-link , a.post-link:visited {
+    color: $grey-color-dark !important;
+}
+.post-list {
+    & h2 {
+        margin-left: 40px; }
+}
+.post-list {
+    & img {
+        max-height: 250px; }
+}
+.gallery_3 {
+    display: flex;
+    justify-content: space-around;
+    
+    & .cell {
+        width: calc(100% / 3);
+        margin: .2rem;
+    }
+}
+.gallery_4 {
+    display: flex;
+    justify-content: space-around;
+    
+    & .cell {
+        width: calc(100% / 4);
+        margin: .2rem;
+    }
+}
+.gallery_3 img, .gallery_4 img {
+    width: 100%;
+}
+
+
+
+
+// ----- Carousel ----- //
+
+.gallery {
+  display: flex;
+  align-items: center;
+  width: 120%;
+  margin-left: -10%;
+  margin-bottom: $spacing-unit;
+  height: 100%;
+}
+.gallery-wrap {
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.carousel {
+  display: flex;
+  left: -100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  transform: translateX(100%);
+}
+
+@media (min-width: 30em) {
+  .carousel {
+    left: -50%;
+    transform: translateX(50%);
+  }
+}
+
+@media (min-width: 40em) {
+  .carousel {
+    left: -33.33333%;
+    transform: translateX(33.33333%);
+  }
+}
+
+.carousel.is-reversing {
+  transform: translateX(-100%);
+}
+
+@media (min-width: 30em) {
+  .carousel.is-reversing {
+    transform: translateX(-50%);
+  }
+}
+
+@media (min-width: 40em) {
+  .carousel.is-reversing {
+    transform: translateX(-33.33333%);
+  }
+}
+
+.carousel.is-set {
+  transform: none;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-seat {
+  background: #ddd;
+  flex: 1 0 100%;
+  order: 2;
+}
+
+.carousel-seat:nth-child(even) {
+  background: #d5d5d5;
+}
+
+@media (min-width: 30em) {
+  .carousel-seat {
+    flex-basis: 50%;
+  }
+}
+
+@media (min-width: 40em) {
+  .carousel-seat {
+    flex-basis: 33.33333%;
+  }
+}
+
+.carousel-seat.is-ref {
+  order: 1;
+}
+
+.controls {
+  display:flex;
+  justify-content: space-between;
+    z-index: 9999;
+    position: absolute;
+}
+
+.gallery button {
+  font-family: "Fakt Pro";
+  font-size: 32px;
+  width: 10%;
+  background:none;
+  border:none;
+    
+    &:focus {
+        outline: none;
+    }
+}
+
