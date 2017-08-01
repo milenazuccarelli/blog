@@ -1,0 +1,23 @@
+{% assign iis_slider_array = "" | split: "" %}
+{% for selector in page.image_sliders %}
+  {% assign iis_slider_array = iis_slider_array | push: selector | uniq %}
+{% endfor %}
+{% for selector in layout.image_sliders %}
+  {% assign iis_slider_array = iis_slider_array | push: selector | uniq %}
+{% endfor %}
+{% if iis_slider_array != empty %}
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="{{ "/resources/script.js" | relative_url }}"></script>
+  <script>
+  {% for selector in iis_slider_array %}
+  {% assign slider = site.data.sliders | where:"selector", selector | first %}
+  {% assign settings = slider.settings %}
+  $('#{{ slider.selector }}-prev').on('click', function (e) {
+    handleEvent(e, 'ul#{{ slider.selector }}');
+  });
+  $('#{{ slider.selector }}-next').on('click', function (e) {
+    handleEvent(e, 'ul#{{ slider.selector }}');
+  }); 
+  {% endfor %}
+</script>
+{% endif %}
