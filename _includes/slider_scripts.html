@@ -7,7 +7,7 @@
 {% endfor %}
 {% if iis_slider_array != empty %}
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-  <script src="{{ "/resources/script.js" | relative_url }}"></script>
+  <script src="{{ "/resources/js/script.js" | relative_url }}"></script>
   <script>
   {% for selector in iis_slider_array %}
   {% assign slider = site.data.sliders | where:"selector", selector | first %}
