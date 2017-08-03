@@ -1,9 +1,0 @@
----
-layout: post
-title:  "August 2"
-date:   2017-08-02-aug2 09:55:29 +0100
-thumbnail: "https://68.media.tumblr.com/9abfd3a1552c07cb7548e1118cde4819/tumblr_op9lbdLOYb1vyt62no1_1280.jpg"
-categories: doodle
----
-
-August 2
