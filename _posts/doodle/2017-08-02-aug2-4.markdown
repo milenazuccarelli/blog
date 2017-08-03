@@ -1,7 +1,0 @@
----
-layout: post
-title:  "locomotion"
-date:   2017-08-02-aug2 09:55:29 +0100
-thumbnail: "/blog/resources/img/everyday/august/locomotion.png"
-categories: doodle
----

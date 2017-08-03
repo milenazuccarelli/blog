@@ -2,8 +2,7 @@
 layout: post
 title:  "The A-Zs of Fall Winter 2017"
 date:   2017-07-26-az-of-fall-winter-2017 13:24:00 +0100
-categories: jekyll update
-thumbnail: "/blog/resources/img/2017-07-26-az-of-fall-winter-2017/thumbnail.jpg"
+thumbnail: "/blog/assets/img/2017-07-26-az-of-fall-winter-2017/thumbnail.jpg"
 image_sliders:
   - one
   - two

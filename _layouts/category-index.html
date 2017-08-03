@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home category-index">
+  {{ content }}
+  <h1 class="page-heading">Month</h1>
+  <ul class="post-list">
+  {% assign noDisplay = "doodle" | split: "," %}
+  {% assign cat_list = site.categories %}
+      {% for category in cat_list %}
+        {% unless noDisplay contains category[0] %}
+          <li><h2><a class="post-link" href="{{ site.baseurl }}/category/{{ category[0] }}">&#8627; {{ category[0] }}</a></h2></li>
+        {% endunless %}
+        <!-- {% if category[0] == noDisplay[0] %}
+          <li><h2><a class="post-link" href="{{ site.baseurl }}/category/{{ noDisplay[0] }}.html">&#8627; view all</a></h2></li>
+        {% endif %} -->
+      {% endfor %}
+  {% assign cat_list = nil %}
+  </ul>
+</div>

@@ -1,120 +1,120 @@
 # one
 - selector: one
   images:
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/apc_1.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/apc_2.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/apc_3.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/apc_4.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/apc_5.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/apc_6.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/apc_7.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/apc_1.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/apc_2.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/apc_3.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/apc_4.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/apc_5.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/apc_6.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/apc_7.jpg
 
 # two
 - selector: two
   images:
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_1.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_2.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_3.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_4.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_5.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_6.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_7.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_8.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_9.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_10.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_11.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ck_12.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_1.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_2.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_3.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_4.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_5.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_6.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_7.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_8.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_9.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_10.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_11.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ck_12.jpg
 
 # three
 - selector: three
   images:
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/celine_1.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/celine_2.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/celine_3.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/celine_4.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/celine_5.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/celine_6.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/celine_1.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/celine_2.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/celine_3.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/celine_4.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/celine_5.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/celine_6.jpg
 
 # four
 - selector: four
   images:
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_1.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_2.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_3.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_4.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_5.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_6.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_7.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_8.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_9.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_10.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_11.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_12.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_13.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/mh_14.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_1.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_2.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_3.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_4.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_5.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_6.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_7.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_8.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_9.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_10.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_11.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_12.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_13.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/mh_14.jpg
 
 # five
 - selector: five
   images:
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/r13_1.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/r13_2.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/r13_3.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/r13_4.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/r13_1.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/r13_2.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/r13_3.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/r13_4.jpg
 
 # six
 - selector: six
   images:
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ro_1.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ro_2.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ro_3.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ro_4.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ro_5.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ro_6.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/ro_7.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ro_1.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ro_2.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ro_3.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ro_4.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ro_5.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ro_6.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/ro_7.jpg
 
 # seven
 - selector: seven
   images:
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/samuji_1.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/samuji_2.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/samuji_3.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/samuji_4.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/samuji_5.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/samuji_6.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/samuji_7.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/samuji_8.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/samuji_1.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/samuji_2.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/samuji_3.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/samuji_4.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/samuji_5.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/samuji_6.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/samuji_7.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/samuji_8.jpg
 
 # eight
 - selector: eight
   images:
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/sm_1.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/sm_2.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/sm_3.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/sm_4.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/sm_1.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/sm_2.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/sm_3.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/sm_4.jpg
 
 # nine
 - selector: nine
   images:
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/vb_1.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/vb_2.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/vb_3.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/vb_4.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/vb_5.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/vb_6.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/vb_7.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/vb_8.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/vb_9.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/vb_1.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/vb_2.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/vb_3.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/vb_4.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/vb_5.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/vb_6.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/vb_7.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/vb_8.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/vb_9.jpg
 
 # ten
 - selector: ten
   images:
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/z_1.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/z_2.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/z_3.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/z_4.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/z_5.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/z_6.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/z_7.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/z_8.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/z_9.jpg
-    - src: /resources/img/2017-07-26-az-of-fall-winter-2017/z_10.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/z_1.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/z_2.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/z_3.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/z_4.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/z_5.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/z_6.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/z_7.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/z_8.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/z_9.jpg
+    - src: /assets/img/2017-07-26-az-of-fall-winter-2017/z_10.jpg

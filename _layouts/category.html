@@ -2,14 +2,6 @@
 layout: page
 ---
 
-{% unless page.content == '' %}
-  <p>{{ page.content }}</p>
-{% endunless %}
-
-{% unless site.categories.[page.category] | size > 0 %}
-  <p>No posts in this category at this time.</p>
-{% endunless %}
-
 <div id="masonry">
   {% for post in site.categories.[page.category] %}
     <div class="gutter-sizer"> </div>
@@ -21,3 +13,5 @@ layout: page
     </div>
   {% endfor %}
 </div>
+
+<h2 class="category-index"><a href="{{ site.baseurl }}/category/doodle-index.html">browse by month</a></h2>

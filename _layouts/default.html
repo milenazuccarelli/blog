@@ -10,10 +10,12 @@
     </div>
   </main>
 
-  {% include footer.html %} {% for js in page.customjs %}
+  {% include footer.html %} 
+  {% for js in page.customjs %}
   <script type="text/javascript" src="{{ js }}"></script>
-  {% endfor %} {% include slider_scripts.html %}
-
+  {% endfor %} 
+  {% include slider_scripts.html %} 
+  {% if site.categories[page.category] %}
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
   <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.js"></script>
@@ -26,9 +28,7 @@
         gutter: 34
       });
     });
-
   </script>
-
+  {% endif %}
 </body>
-
 </html>
