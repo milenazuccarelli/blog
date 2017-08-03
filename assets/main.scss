@@ -121,3 +121,15 @@ a.post-link , a.post-link:visited {
     }
 }
 
+// ----- Doodle Page ----- //
+
+.masonry {
+width: 680px;
+}
+.masonry-item {
+width: 30%;
+  img {
+    padding-bottom: 10px;
+  }
+}
+.gutter-sizer { width: 2%; }

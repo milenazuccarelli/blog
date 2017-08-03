@@ -10,10 +10,25 @@
     </div>
   </main>
 
-  {% include footer.html %}
-  {% for js in page.customjs %}
+  {% include footer.html %} {% for js in page.customjs %}
   <script type="text/javascript" src="{{ js }}"></script>
-  {% endfor %} 
-  {% include slider_scripts.html %} 
+  {% endfor %} {% include slider_scripts.html %}
+
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
+  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.js"></script>
+  <script type="text/javascript">
+    var $container = $('#masonry');
+    $container.imagesLoaded(function () {
+      $container.masonry({
+        itemSelector: '.masonry-item',
+        columnWidth: '.masonry-item',
+        gutter: 34
+      });
+    });
+
+  </script>
+
 </body>
+
 </html>

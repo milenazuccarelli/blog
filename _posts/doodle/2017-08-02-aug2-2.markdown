@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "bananas"
+date:   2017-08-02-aug2 09:55:29 +0100
+thumbnail: "/blog/resources/img/everyday/august/bananas.jpg"
+categories: doodle
+---
+
+August 2

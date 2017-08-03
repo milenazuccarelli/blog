@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "pots_shaded1.png"
+date:   2017-08-02-aug2 09:55:29 +0100
+thumbnail: "/blog/resources/img/everyday/august/pots_shaded1.png"
+categories: doodle
+---
