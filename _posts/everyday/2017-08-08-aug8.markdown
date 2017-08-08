@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "more intentional (ft ny times serendipitous 'haiku')"
+date:   2017-08-08-aug8 23:04:29 +0100
+thumbnail: "/blog/assets/img/everyday/august/moreintentional.jpg"
+categories: doodle august
+---
+

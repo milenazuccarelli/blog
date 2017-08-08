@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cksj"
+date:   2017-08-05-aug5 09:55:29 +0100
+thumbnail: "/blog/assets/img/everyday/august/cksj.png"
+categories: doodle august
+---
