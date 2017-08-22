@@ -6,9 +6,9 @@ layout: page
   {% for post in site.categories.[page.category] %}
     <div class="gutter-sizer"> </div>
     <div class="masonry-item">
-      <img src="{{ post.thumbnail }}" />
+      <a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" /></a>
       <p>{{ post.date | date: "%B %-d, %Y" }} <br/>
-      {% if post.title %} &#8627; {{ post.title }} {% endif %}
+      {% if post.title %} &#8627; <a href="{{ post.url | relative_url }}">{{ post.title }}</a> {% endif %}
       </p>
     </div>
   {% endfor %}

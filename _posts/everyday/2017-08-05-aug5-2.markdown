@@ -5,3 +5,5 @@ date:   2017-08-05-aug5 09:56:29 +0100
 thumbnail: "/blog/assets/img/everyday/august/fruit.jpg"
 categories: doodle august
 ---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/fruit.jpg)

@@ -6,4 +6,4 @@ thumbnail: "/blog/assets/img/everyday/august/im-tired-03.png"
 categories: doodle august
 ---
 
-aug 1
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/im-tired-03.png)

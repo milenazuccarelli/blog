@@ -5,3 +5,5 @@ date:   2017-08-07-aug7 23:05:29 +0100
 thumbnail: "/blog/assets/img/everyday/august/hotheat.jpg"
 categories: doodle august
 ---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/hotheat.jpg)

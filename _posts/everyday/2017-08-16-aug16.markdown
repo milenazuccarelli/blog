@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "i like being dull"
+date:   2017-08-16-aug16 13:20:00 +0100
+thumbnail: "/blog/assets/img/everyday/august/dull2.jpg"
+categories: doodle august
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/dull2.jpg)

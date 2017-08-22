@@ -5,3 +5,5 @@ date:   2017-08-03-aug3 09:55:29 +0100
 thumbnail: "/blog/assets/img/everyday/august/textile.jpg"
 categories: doodle august
 ---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/textile.jpg)
