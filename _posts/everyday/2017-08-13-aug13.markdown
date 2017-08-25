@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "(Gerard DuBois)"
+date:   2017-08-09-aug9 13:20:00 +0100
+thumbnail: ""
+categories: doodle august
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/tangle-03.png)

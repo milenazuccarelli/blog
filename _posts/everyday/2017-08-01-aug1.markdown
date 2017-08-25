@@ -2,7 +2,6 @@
 layout: post
 title:  "im-tired-03.png"
 date:   2017-08-01-aug1 09:54:29 +0100
-thumbnail: "/blog/assets/img/everyday/august/im-tired-03.png"
 categories: doodle august
 ---
 
