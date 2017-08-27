@@ -2,7 +2,6 @@
 layout: post
 title:  "no new ideas"
 date:   2017-08-24-aug24 13:20:00 +0100
-thumbnail: "/blog/assets/img/everyday/august/ideas.jpg"
 categories: doodle august
 ---
 

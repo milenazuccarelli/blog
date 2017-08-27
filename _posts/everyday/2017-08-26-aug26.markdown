@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "rb"
+date:   2017-08-26-aug26 14:20:00 +0100
+thumbnail: "/blog/assets/img/everyday/august/7.jpg"
+categories: doodle august
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/7.jpg)
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/4.jpg)
