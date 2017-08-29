@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "(attempt at a charlie lewis-esque portrait)"
+date:   2017-08-25 13:20:00 +0100
+categories: doodle august
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/sth-04.png)

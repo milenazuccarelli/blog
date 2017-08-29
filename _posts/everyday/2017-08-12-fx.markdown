@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "f(x)"
+date:   2017-08-12 14:30:00 +0100
+categories: doodle august
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/fx-02.png)
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/fx-03.png)

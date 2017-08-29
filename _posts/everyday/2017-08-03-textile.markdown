@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "textile (it's gross, I know)"
+date:   2017-08-03 09:55:29 +0100
+categories: doodle august
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/textile.jpg)

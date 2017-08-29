@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "tangle (Gerard DuBois)"
+date:   2017-08-13 13:20:00 +0100
+categories: doodle august
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/tangle-03.png)

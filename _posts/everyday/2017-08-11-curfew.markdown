@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "curfew"
+date:   2017-08-11 13:20:00 +0100
+thumbnail: "/blog/assets/img/everyday/august/curfew.jpg"
+categories: doodle august
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/august/curfew.jpg)
