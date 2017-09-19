@@ -1,9 +1,0 @@
----
-layout: post
-title:  "zz and arp"
-date:   2017-09-06 09:54:29 +0100
-thumbnail: "/blog/assets/img/everyday/september/combo.jpg"
-categories: doodle september
----
-
-![my photo]({{ site.baseurl }}/assets/img/everyday/september/combo.jpg)

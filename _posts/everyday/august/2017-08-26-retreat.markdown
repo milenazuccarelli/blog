@@ -1,9 +1,0 @@
----
-layout: post
-title:  "retreat"
-date:   2017-08-26 14:20:00 +0100
-thumbnail: "/blog/assets/img/everyday/august/4.jpg"
-categories: doodle august
----
-
-![my photo]({{ site.baseurl }}/assets/img/everyday/august/4.jpg)
