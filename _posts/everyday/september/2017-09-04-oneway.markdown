@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "one way"
+date:   2017-09-04 09:54:29 +0100
+categories: doodle september
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/september/oneway-01.png)

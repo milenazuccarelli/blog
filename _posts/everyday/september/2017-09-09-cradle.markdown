@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "cradle"
+date:   2017-09-09 09:54:29 +0100
+categories: doodle september
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/september/cradle.png)

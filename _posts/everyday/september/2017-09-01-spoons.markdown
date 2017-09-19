@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "spoons"
+date:   2017-09-01 09:54:29 +0100
+thumbnail: "/blog/assets/img/everyday/september/spoons.jpg"
+categories: doodle september
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/september/spoons.jpg)

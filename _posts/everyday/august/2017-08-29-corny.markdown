@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "somewhat corny"
-date:   2017-08-29-aug29 13:20:00 +0100
+date:   2017-08-29 13:20:00 +0100
 thumbnail: "/blog/assets/img/everyday/august/SCAN0108.JPG"
 categories: doodle august
 ---

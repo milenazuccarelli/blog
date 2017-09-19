@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "by the pool"
+date:   2017-09-08 09:54:29 +0100
+thumbnail: "/blog/assets/img/everyday/september/pool-05.png"
+categories: doodle september
+---
+
+![my photo]({{ site.baseurl }}/assets/img/everyday/september/pool-05.png)

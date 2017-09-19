@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "composition"
+title:  "composition (using the envelope from a bank letter)"
 date:   2017-08-15 13:20:00 +0100
 thumbnail: "/blog/assets/img/everyday/august/composition.jpg"
 categories: doodle august
